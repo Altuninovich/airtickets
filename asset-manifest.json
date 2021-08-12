@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tickets/static/css/main.acada609.chunk.css",
-    "main.js": "/tickets/static/js/main.2be56218.chunk.js",
-    "main.js.map": "/tickets/static/js/main.2be56218.chunk.js.map",
-    "runtime-main.js": "/tickets/static/js/runtime-main.9bda60e2.js",
-    "runtime-main.js.map": "/tickets/static/js/runtime-main.9bda60e2.js.map",
-    "static/js/2.52284245.chunk.js": "/tickets/static/js/2.52284245.chunk.js",
-    "static/js/2.52284245.chunk.js.map": "/tickets/static/js/2.52284245.chunk.js.map",
-    "static/js/3.b633b5e7.chunk.js": "/tickets/static/js/3.b633b5e7.chunk.js",
-    "static/js/3.b633b5e7.chunk.js.map": "/tickets/static/js/3.b633b5e7.chunk.js.map",
-    "index.html": "/tickets/index.html",
-    "static/css/main.acada609.chunk.css.map": "/tickets/static/css/main.acada609.chunk.css.map",
-    "static/js/2.52284245.chunk.js.LICENSE.txt": "/tickets/static/js/2.52284245.chunk.js.LICENSE.txt"
+    "main.css": "/airtickets/static/css/main.acada609.chunk.css",
+    "main.js": "/airtickets/static/js/main.6e778fb4.chunk.js",
+    "main.js.map": "/airtickets/static/js/main.6e778fb4.chunk.js.map",
+    "runtime-main.js": "/airtickets/static/js/runtime-main.8902a224.js",
+    "runtime-main.js.map": "/airtickets/static/js/runtime-main.8902a224.js.map",
+    "static/js/2.52284245.chunk.js": "/airtickets/static/js/2.52284245.chunk.js",
+    "static/js/2.52284245.chunk.js.map": "/airtickets/static/js/2.52284245.chunk.js.map",
+    "static/js/3.b633b5e7.chunk.js": "/airtickets/static/js/3.b633b5e7.chunk.js",
+    "static/js/3.b633b5e7.chunk.js.map": "/airtickets/static/js/3.b633b5e7.chunk.js.map",
+    "index.html": "/airtickets/index.html",
+    "static/css/main.acada609.chunk.css.map": "/airtickets/static/css/main.acada609.chunk.css.map",
+    "static/js/2.52284245.chunk.js.LICENSE.txt": "/airtickets/static/js/2.52284245.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9bda60e2.js",
+    "static/js/runtime-main.8902a224.js",
     "static/js/2.52284245.chunk.js",
     "static/css/main.acada609.chunk.css",
-    "static/js/main.2be56218.chunk.js"
+    "static/js/main.6e778fb4.chunk.js"
   ]
 }
